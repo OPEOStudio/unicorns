@@ -1,0 +1,677 @@
+,startup score,Name,Country,Valuation,%,Status,Industry,Description,First stage bootstrapability,Organization orientation,Tech-ability,Competitive intensity,localization advantage,Physical component
+,2.56,Ant Financial,China,150,4.6%,Current non-IPOed,Financial,payment and micro-loans,4,1,2,1,5,1
+,2.44,Bytedance,China,78,2.4%,Current non-IPOed,News,news platform #1 in china,2,2,2,2,5,1
+,4.44,Uber,US,72,2.2%,Current non-IPOed,Transportation,transportation on demand,6,6,6,1,2,5
+,4.68,Tesla,US,71,2.2%,Current non-IPOed,manufacturing,manufacturing of cars,1,9,9,1,1,8
+,4.40,DiDi,China,56,1.7%,Current non-IPOed,Transportation,uber clone,6,6,6,6,2,1
+,3.28,Facebook,US,50,1.5%,IPO,Social network,addictive social network w. friends,5,5,5,1,2,1
+,3.60,WeWork,US,45,1.4%,Current non-IPOed,Real estate,on-demand corporate real estate,2,2,2,2,6,7
+,1.64,Xiaomi,China,45,1.4%,IPO,Manufacturing,smartphone & electronics manufacture,2,2,2,2,1,1
+,6.16,Alibaba,China,42,1.3%,IPO,e-commerce,e-commerce platform (amazon clone),6,6,8,2,6,8
+,6.00,Airbnb,US,38,1.2%,Current non-IPOed,Real estate,on-demand vacation rentals platformized,8,8,8,2,4,5
+,3.52,Lufax,China,30,0.9%,Current non-IPOed,Financial,"lending marketplace, B2B, B2C, C2B",4,4,4,4,4,1
+,4.80,Meituan-Dianping,China,30,0.9%,IPO,Logistics,last-mile delivery platform,6,6,6,6,4,1
+,2.48,SpaceX,US,24,0.7%,Current non-IPOed,Space,space manufacturing,1,1,1,1,2,9
+,6.08,Cainiao Network,China,20,0.6%,Current non-IPOed,Logistics,recurring logistic platform,8,8,8,6,2,5
+,3.68,Stripe,US,20,0.6%,Current non-IPOed,Financial,payment simplified platform,4,2,8,6,2,1
+,4.12,CATL,China,20,0.6%,IPO,Manufacturing,Li-ion batteries,1,8,6,6,4,1
+,2.40,Snap Inc,US,19,0.6%,IPO,Social network,teenagers photo-based social network,4,1,1,1,5,1
+,1.80,Kuaishou,China,18,0.5%,Current non-IPOed,Media,photo-sharing platform,1,1,1,1,5,1
+,1.40,Tencent Music,China,18,0.5%,IPO,Music,Spotify clone,1,1,1,1,3,1
+,4.44,Lyft,US,15,0.5%,Current non-IPOed,Transportation,uber clone,6,6,6,1,2,5
+,3.68,Adyen,Netherlands,15,0.5%,IPO,Payment,Stripe clone,4,2,8,6,2,1
+,4.44,DJI,China,15,0.5%,Current non-IPOed,Drones,main drone manufacturing company,2,5,6,5,2,8
+,3.40,JUUL Labs,US,15,0.5%,Current non-IPOed,e-cigarettes,main e-cig manufacturing company,2,5,5,7,2,1
+,5.56,Pinduoduo,China,15,0.5%,IPO,e-commerce,group buying deals,8,5,5,5,8,1
+,2.60,Pinterest,US,13,0.4%,Current non-IPOed,Social network,woman craft&interest social network,4,1,6,1,2,1
+,5.44,Jiedaibao,China,11,0.3%,Current non-IPOed,Financial,micro-loans and consumer finance,5,3,6,5,8,5
+,,,,,,,,,,,,,,
+,3.68,Grab,Singapore,10,0.3%,Current non-IPOed,Payment,stripe clone,4,2,8,6,2,1
+,3.68,Paytm,India,10,0.3%,Current non-IPOed,Payment,stripe clone,4,2,8,6,2,1
+,4.76,WeBank,China,9,0.3%,Current non-IPOed,Financial,collaborative banking,5,2,6,6,8,1
+,2.12,Zynga,US,9,0.3%,IPO,Gaming,social gaming company,1,1,8,1,1,1
+,4.44,Uber China,China,9,0.3%,Acquired,Transportation,uber clone,6,6,6,1,2,5
+,5.40,PingAn Health Insurance Tech,China,9,0.3%,Current non-IPOed,insurance,simplification of health insurance,7,2,6,8,8,1
+,2.92,Spotify,Sweden,9,0.3%,Direct listing,Music,music on demand platform,4,1,8,1,2,1
+,1.20,Skype,Sweden,9,0.3%,Acquired,Communication,peer to peer communication,1,1,1,1,2,1
+,2.44,Coinbase,US,8,0.2%,Current non-IPOed,Financial,cryptocurrencies trading marketplace,1,1,10,1,1,1
+,2.44,Koubei,China,8,0.2%,Current non-IPOed,Information,google lookalike w. deeptech,1,1,10,1,1,1
+,3.56,OneConnect,China,8,0.2%,Current non-IPOed,Communication,banks backoffice platform,1,1,10,2,6,1
+,3.04,Twitter,US,8,0.2%,IPO,Social network,140-long character written social network,4,1,10,1,1,1
+,7.36,Instacart,US,8,0.2%,Current non-IPOed,e-commerce,last-mile delivery + B2C groceries platform,8,6,10,6,6,8
+,2.60,Moderna Therapeutics,US,8,0.2%,Current non-IPOed,Health,deeptech health,1,1,10,1,1,2
+,4.16,JD Finance,China,7,0.2%,Current non-IPOed,e-commerce,e-commerce w. drone delivery system,2,2,10,4,6,1
+,5.20,Tokopedia,Indonesia,7,0.2%,Current non-IPOed,e-commerce,C2C platform e-commerce,6,4,8,6,6,1
+,2.32,Roivant Sciences,Switzerland,7,0.2%,Current non-IPOed,Health,deeptech in health,2,2,2,2,2,4
+,2.88,Slack Technologies,US,7,0.2%,Current non-IPOed,Communication,communication SaaS for tech businesses,4,2,1,1,1,8
+,6.92,GO-JEK,Indonesia,7,0.2%,Current non-IPOed,Transportation,Motorcycle taxis & transportation,9,8,7,8,8,1
+,1.36,Tanium,US,7,0.2%,Current non-IPOed,Security,security endpoint deeptech,1,1,1,1,2,2
+,5.52,Lianjia,China,6,0.2%,Current non-IPOed,Real estate,airbnb clone,8,8,8,2,4,2
+,3.68,Palantir Technologies,US,6,0.2%,Current non-IPOed,Security,big data analytics in defense & police,1,2,10,1,4,4
+,3.68,Square,US,6,0.2%,IPO,Payment,smartphone-facilitated payments,4,2,8,6,2,1
+,2.44,Homelink,China,6,0.2%,Current non-IPOed,manufacturing,in-car smart opening systems,1,6,2,1,1,4
+,3.56,Robinhood,US,6,0.2%,Current non-IPOed,Financial,personal trading fee-free millenial-targeting app,2,2,8,5,4,1
+,3.40,Coupang,South Korea,5,0.2%,Current non-IPOed,e-commerce,mobile-first e-commerce platform,2,2,8,2,5,1
+,3.56,NIO,China,5,0.2%,Current non-IPOed,manufacturing,tesla copycat,1,9,9,1,1,1
+,3.96,OYO,India,5,0.2%,Current non-IPOed,travel,booking.com copycat,4,2,4,1,4,8
+,2.84,United Imaging Healthcare,China,5,0.2%,Current non-IPOed,Health,health manufacturing devices,1,2,8,4,2,1
+,2.52,Stemcentrx,US,5,0.2%,Acquired,Health,biopharma company w. several patents,1,2,6,4,2,1
+,5.56,Groupon,US,5,0.1%,IPO,e-commerce,group buying deals,8,5,5,5,8,1
+,2.92,Magic Leap,US,5,0.1%,Current non-IPOed,VR,VR manufacturer,1,1,10,1,1,4
+,1.00,Zenefits,US,5,0.1%,Current non-IPOed,HR,HR management full-featured SaaS,1,1,1,1,1,1
+,2.12,Meizu,China,4,0.1%,Current non-IPOed,Manufacturing,consumer electronics,1,1,8,1,1,1
+,6.00,Ucar,China,4,0.1%,IPO,Transportation,on-demand carsharing platform,8,6,6,6,8,1
+,3.80,Ola Cabs,India,4,0.1%,Current non-IPOed,Transportation,uber clone,6,6,6,1,2,1
+,3.56,BAIC BJEV,China,4,0.1%,Current non-IPOed,cars,tesla clone,1,9,9,1,1,1
+,5.84,Yello Mobile,South Korea,4,0.1%,Current non-IPOed,advertising,B2B on-demand advertising automated platform,6,7,9,6,6,1
+,4.24,Zalando,Germany,4,0.1%,IPO,e-commerce,on-demand customer-centric fashion platform,6,2,2,2,6,6
+,3.44,Byju's,India,4,0.1%,Current non-IPOed,e-learning,on-demand elearning,6,2,2,2,6,1
+,2.04,Nubank,Brazil,4,0.1%,Current non-IPOed,Financial,mobile-first neobank cutting banking bullshit,3,2,2,2,2,1
+,1.84,Peloton,US,4,0.1%,Current non-IPOed,Social network,fitness enthusiasts-oriented social network,2,2,2,2,2,1
+,4.48,DoorDash,US,4,0.1%,Current non-IPOed,food delivery,food delivery logistics platform,8,2,2,2,6,5
+,3.40,UBtech Robotics,China,4,0.1%,Current non-IPOed,manufacturing,robot manufacturing,1,2,8,1,1,8
+,2.84,Lending Club,US,4,0.1%,IPO,Financial,C2C consumer finance,3,2,2,2,6,1
+,1.84,Garena,Singapore,4,0.1%,Current non-IPOed,Social network,sports-oriented social network,2,2,2,2,2,1
+,7.12,Shouqi Car Rental,China,4,0.1%,Current non-IPOed,Transportation,Ucar clone,8,6,6,6,8,8
+,2.04,Credit Karma,US,4,0.1%,Current non-IPOed,Financial,credit score calculator,3,2,2,2,2,1
+,4.48,Swiggy,India,3,0.1%,Current non-IPOed,food delivery,Doordash clone,8,2,2,2,6,5
+,2.60,Atlassian,Australia,3,0.1%,IPO,productivity,coding productivity SaaS,1,2,8,2,2,1
+,5.08,e-Shang Redwood,China,3,0.1%,Current non-IPOed,Logistics,recurring logistics,3,8,6,4,8,1
+,3.20,Oscar Health,US,3,0.1%,Current non-IPOed,insurance,simplifying healthtech & cutting bullshit,2,2,8,2,4,1
+,2.40,SmileDirectClub,US,3,0.1%,Current non-IPOed,health,braces company w. a patent,1,2,2,2,5,2
+,2.64,Fanatics,US,3,0.1%,Current non-IPOed,e-commerce,sports vertical e-commerce platform,2,2,2,2,6,1
+,3.44,UiPath Inc.,US,3,0.1%,Current non-IPOed,productivity,B2B automation of low-value-added tasks,4,2,8,4,2,1
+,6.60,VIPKID,China,3,0.1%,Current non-IPOed,e-learning,teaching marketplace,9,6,8,7,7,2
+,2.92,Ali Music,China,3,0.1%,Current non-IPOed,Music,spotify clone,4,1,8,1,2,1
+,3.96,ContextLogic (Wish),US,3,0.1%,Current non-IPOed,e-commerce,marketplace splurge // destocking,5,3,5,6,4,1
+,4.16,Jia.com,China,3,0.1%,Current non-IPOed,e-commerce,B2B home marketplace,4,3,4,4,8,1
+,3.00,LY.com,China,3,0.1%,Current non-IPOed,travel,booking.com copycat,4,2,4,1,4,2
+,3.44,Meili United Group,China,3,0.1%,Current non-IPOed,e-commerce,zalando.com copycat,6,2,2,2,6,1
+,5.20,Ping An Good Doctor,China,3,0.1%,Current non-IPOed,health,doctor booking & advice platform,6,4,8,6,6,1
+,3.40,Royole Corporation,China,3,0.1%,Current non-IPOed,manufacturing,smartphone manufacturer (split from foxconn),1,8,2,2,2,6
+,3.20,SoFi,US,3,0.1%,Current non-IPOed,Financial,personal trading platform,4,2,8,2,2,1
+,3.44,VANCL,China,3,0.1%,Current non-IPOed,e-commerce,zalando.com copycat,6,2,2,2,6,1
+,5.84,Wanda E-commerce,China,3,0.1%,Current non-IPOed,e-commerce,alibaba.com copycat,6,6,8,2,6,6
+,2.40,Yixia Technology,China,3,0.1%,Current non-IPOed,social network,snap copycat,4,1,1,1,5,1
+,3.00,Legendary Entertainment,US,3,0.1%,Acquired,media,content creation company,1,1,1,8,6,2
+,2.88,Pure Storage,US,3,0.1%,IPO,productivity,SaaS data warehousing,4,1,9,1,1,1
+,2.84,UnionPay Merchant Services,China,3,0.1%,Current non-IPOed,Financial,Banking simplified & cards,2,1,2,5,6,1
+,2.24,Pivotal,US,3,0.1%,IPO,productivity,on-demand cloud services,2,1,2,5,3,1
+,2.44,Plaid,US,3,0.1%,Current non-IPOed,Financial,middleware banking tech layer,1,2,9,1,1,1
+,7.88,Ofo,China,3,0.1%,Current non-IPOed,transportation,on-demand bike service,8,8,8,7,8,8
+,3.24,AmWINS Group,US,3,0.1%,Current non-IPOed,insurance,insurance broker leveraging tech,1,2,8,4,4,1
+,1.64,Vice Media,US,3,0.1%,Current non-IPOed,news,edgy news network,1,2,2,2,2,1
+,2.76,Cambricon,China,3,0.1%,Current non-IPOed,manufacturing,robot & microchip manufacturing,1,8,2,5,1,1
+,3.84,Zomato,India,3,0.1%,Current non-IPOed,food delivery,food search & delivery,8,2,2,2,6,1
+,2.28,Face++,China,3,0.1%,Current non-IPOed,productivity,"face recognition service, prob. china military",1,1,9,1,1,1
+,3.48,Qualtrics,US,3,0.1%,Current non-IPOed,productivity,customer discovery SaaS,4,2,8,1,4,1
+,2.80,Zhihu,China,3,0.1%,Current non-IPOed,social network,Quora.com Q&A social network,2,2,8,2,2,1
+,2.24,Kingsoft Cloud,China,2,0.1%,Current non-IPOed,productivity,on-demand cloud services,2,1,2,5,3,1
+,8.00,Box,US,2,0.1%,IPO,productivity,on-demand physical storage,8,8,8,8,8,8
+,1.84,Mozido,US,2,0.1%,Current non-IPOed,services,platform-platform business,2,2,2,2,2,1
+,4.32,Houzz,US,2,0.1%,Current non-IPOed,e-commerce,home decoration e-commerce platform,6,2,2,6,8,1
+,3.68,Klarna,Sweden,2,0.1%,Current non-IPOed,Financial,"online payment solution, stripe competitor",4,2,8,6,2,1
+,4.36,GoPro,US,2,0.1%,IPO,manufacturing,camera manufacturing,1,8,6,2,2,8
+,7.04,Compass,US,2,0.1%,Current non-IPOed,food delivery,food cooking & delivery for businesses,8,8,6,6,6,8
+,3.52,Babytree,China,2,0.1%,Current non-IPOed,e-commerce,parenting tips & bundle offers,7,1,1,1,6,3
+,3.08,Opendoor,US,2,0.1%,Current non-IPOed,Real estate,fee-free agent,6,1,1,1,4,4
+,3.00,Taobao Movie,China,2,0.1%,Current non-IPOed,Communication,content creation company,1,1,1,8,6,2
+,4.80,"Roku, Inc.",US,2,0.1%,IPO,manufacturing,smart tvs,1,5,5,1,8,8
+,4.84,Three Squirrels,China,2,0.1%,Current non-IPOed,food delivery,food production,1,4,4,4,8,8
+,2.12,AppDynamics,US,2,0.1%,Acquired,services,app performance management,1,4,2,2,2,2
+,2.72,Traveloka,Indonesia,2,0.1%,Current non-IPOed,services,B2B butler for corporate travel,4,4,2,2,2,2
+,2.12,Applovin,US,2,0.1%,Current non-IPOed,services,app performance management,1,4,2,2,2,2
+,4.24,Beijing Weiying Technology,China,2,0.1%,Current non-IPOed,services,ticketing & event booking app,6,4,4,2,6,2
+,4.00,Bird,US,2,0.1%,Current non-IPOed,transportation,on-demand electric scooters,4,4,1,1,5,8
+,4.48,Deliveroo,UK,2,0.1%,Current non-IPOed,food delivery,food delivery logistics platform,8,2,2,2,6,5
+,1.84,Domo,US,2,0.1%,IPO,productivity,business analytics,2,2,2,2,2,1
+,2.84,Firstp2p,China,2,0.1%,Current non-IPOed,financial,micro lending platform C2C,3,2,2,2,6,1
+,1.84,Huimin.cn,China,2,0.1%,Current non-IPOed,e-commerce,platform for middlesize supermarkets,2,2,2,2,2,1
+,7.36,Meicai.cn,China,2,0.1%,Current non-IPOed,e-commerce,agricultural goods & know-how,8,8,7,7,7,7
+,0.00,Maoyan-Weiying,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Oxford Nanopore Technologies,UK,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,ReNew Power,India,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Sensetime,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,SurveyMonkey,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Taopiaopiao,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Trendy International Group,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Tubatu.com,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Youxinpai,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Paytm mall,India,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Wayfair,US,2,0.1%,IPO,,,,,,,,
+,0.00,NantHealth,US,2,0.1%,IPO,,,,,,,,
+,0.00,Meitu,China,2,0.1%,IPO,,,,,,,,
+,0.00,Nutanix,US,2,0.1%,IPO,,,,,,,,
+,0.00,Avant,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Intarcia Therapeutics,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Yinlong Group,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Youxia Motors,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Sanpower Group,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Dfinity,Switzerland,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Prosper Marketplace,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Mobileye,Israel,2,0.1%,IPO,,,,,,,,
+,0.00,Apus Group,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,BenevolentAI,UK,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Avito.ru,Russia,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Billdesk,India,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Ucommune,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Crystal Lagoons,Chile,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,NantOmics,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Reddit,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Quora,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Sprinklr,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Zocdoc,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Revolut,UK,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Taihe Music Group,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Squarespace,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,The Honest Company,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,AIWAYS,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Caocao Zhuanche,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,BlaBlaCar,France,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Afiniti,US,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Better Place,US,2,0.0%,Acquired,,,,,,,,
+,0.00,HeartFlow,US,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Affirm,US,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Musigma,India,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Aihuishou,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Spring Rain Software,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Douyu TV,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Lakala,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Ninebot,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Souche,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,UCloud,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Tujia.com,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,ZBJ.com,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Freshworks,India,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Snowflake Computing,US,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Letgo,Spain,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Asana,US,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,MuleSoft,US,2,0.0%,"IPO,Acquired",,,,,,,,
+,0.00,Jet.com,US,2,0.0%,Acquired,,,,,,,,
+,0.00,LivingSocial,US,2,0.0%,Acquired,,,,,,,,
+,0.00,WhatsApp,US,2,0.0%,Acquired,,,,,,,,
+,0.00,Hello Bike,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Suning Sports,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Tuandaiwang,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Koudai Gouwu,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,C3 IoT,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Hike,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Toast,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,HomeAway,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Jasper,US,1,0.0%,Acquired,,,,,,,,
+,0.00,ETCP,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Kr Space,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Thumbtack,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Rubrik,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,PagerDuty,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Postmates,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Sunrun,US,1,0.0%,IPO,,,,,,,,
+,0.00,Alisports,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Loji Logistics,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Iwjw,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Darktrace,UK,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Bitmain,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Byton,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,EasyLife Financial Services,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Dada,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Warby Parker,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Bukalapak,Indonesia,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Good Technology,US,1,0.0%,Acquired,,,,,,,,
+,0.00,NetEase Cloud Music,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Fab,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Gilt Groupe,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Vonage,US,1,0.0%,IPO,,,,,,,,
+,0.00,GitLab,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,NetEase Youdao,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Luoji Siwei,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,LimeBike,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Global Fashion Group,Luxembourg,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,ShopClues,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Cloudflare,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,InMobi,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Convoy,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Maimai,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Zulily,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Coupa,US,1,0.0%,IPO,,,,,,,,
+,0.00,LinkedIn,US,1,0.0%,IPO,,,,,,,,
+,0.00,Twilio,US,1,0.0%,IPO,,,,,,,,
+,0.00,SimpliVity,US,1,0.0%,Acquired,,,,,,,,
+,0.00,UST Global,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Policy Bazaar,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Udaan,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Pine Lab,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Beibei,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,OutSystems,Portugal,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Chubao Technology,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Dt Dream,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,DXY,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Futu Securities,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,FXiaoKe,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Fangdd.com,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Fanli,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Huikedu Group,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Gusto,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Snapdeal,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Netskope,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,iCarbonX,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Innovent Biologics,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,iTutorGroup,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,JFrog,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Jiangsu Zimi Technology,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Jollychic,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Quikr,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Lalamove,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Lamabang,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,luckin coffee,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Mia.com,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Careem,UAE,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,MissFresh,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Mobvoi,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Mofang Apartment,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Novogene,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,QingCloud,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Seismic Software,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Smartmi,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Tongdun Technology,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Unisound,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Wacai.com,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Wifi Master Key,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,CrowdStrike,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Womai,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Xiaozhu.com,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,YH Global,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Yuanfudao,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Vox Media,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Yitu Technology,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Yidian Zixun,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Essential Products,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,MindMaze,Switzerland,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Zhaogang.com,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Zhuanzhuan,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Zuoyebang,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,17Zuoye,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,GoGoVan,Hong Kong,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Rubicon Global,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,36Kr Media,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,InVision,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,58 Daojia,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Lookout Security,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,TransferWise,UK,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Kabam,Canada,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,9fbank.com,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Udacity,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Canva,Australia,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,LinkSure Network (WiFi Master Key),China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,MedMen,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,OrCam,Israel,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Improbable,UK,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,ThoughtSpot,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Symphony,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Taxify,Estonia,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Klook,Hong Kong,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,One Medical,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Talkdesk,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Tresata,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,AppDirect,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,TripActions,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Rappi,Colombia,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Musigma,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Shopify,Canada,1,0.0%,IPO,,,,,,,,
+,0.00,AirWatch,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Lynda.com,US,1,0.0%,Acquired,,,,,,,,
+,0.00,New Relic,US,1,0.0%,IPO,,,,,,,,
+,0.00,Dollar Shave Club,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Quotient Technology,US,1,0.0%,IPO,,,,,,,,
+,0.00,Skyscanner,UK,1,0.0%,Acquired,,,,,,,,
+,0.00,Souq.com,UAE,1,0.0%,Acquired,,,,,,,,
+,0.00,Blue Apron,US,1,0.0%,IPO,,,,,,,,
+,0.00,musical.ly,China,1,0.0%,Acquired,,,,,,,,
+,0.00,Stitch Fix,US,1,0.0%,IPO,,,,,,,,
+,0.00,Shazam,UK,1,0.0%,Acquired,,,,,,,,
+,0.00,Ring,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Mobike,China,1,0.0%,Acquired,,,,,,,,
+,0.00,Ele.me,China,1,0.0%,Acquired,,,,,,,,
+,0.00,IZettle,Sweden,1,0.0%,Acquired,,,,,,,,
+,0.00,Duo Security,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Bloom Energy,US,1,0.0%,IPO,,,,,,,,
+,0.00,Solstice,US,1,0.0%,Acquired,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,startup score,,,Valuation,,,,,First stage bootstrapability,Organization orientation,Tech-ability,Competitive intensity,localization advantage,Physical component
+,see : decision factors,Name,Country,B valuation,%,Status,Industry,Description,S,S,S,S,S,S
+,2.56,Ant Financial,China,150,4.6%,Current non-IPOed,Financial,payment and micro-loans,4,1,2,1,5,1
+,2.44,Bytedance,China,78,2.4%,Current non-IPOed,News,news platform #1 in china,2,2,2,2,5,1
+,4.44,Uber,US,72,2.2%,Current non-IPOed,Transportation,transportation on demand,6,6,6,1,2,5
+,4.68,Tesla,US,71,2.2%,Current non-IPOed,manufacturing,manufacturing of cars,1,9,9,1,1,8
+,4.40,DiDi,China,56,1.7%,Current non-IPOed,Transportation,uber clone,6,6,6,6,2,1
+,3.28,Facebook,US,50,1.5%,IPO,Social network,addictive social network w. friends,5,5,5,1,2,1
+,3.60,WeWork,US,45,1.4%,Current non-IPOed,Real estate,on-demand corporate real estate,2,2,2,2,6,7
+,1.64,Xiaomi,China,45,1.4%,IPO,Manufacturing,smartphone & electronics manufacture,2,2,2,2,1,1
+,6.16,Alibaba,China,42,1.3%,IPO,e-commerce,e-commerce platform (amazon clone),6,6,8,2,6,8
+,6.00,Airbnb,US,38,1.2%,Current non-IPOed,Real estate,on-demand vacation rentals platformized,8,8,8,2,4,5
+,3.52,Lufax,China,30,0.9%,Current non-IPOed,Financial,"lending marketplace, B2B, B2C, C2B",4,4,4,4,4,1
+,4.80,Meituan-Dianping,China,30,0.9%,IPO,Logistics,last-mile delivery platform,6,6,6,6,4,1
+,2.48,SpaceX,US,24,0.7%,Current non-IPOed,Space,space manufacturing,1,1,1,1,2,9
+,6.08,Cainiao Network,China,20,0.6%,Current non-IPOed,Logistics,recurring logistic platform,8,8,8,6,2,5
+,3.68,Stripe,US,20,0.6%,Current non-IPOed,Financial,payment simplified platform,4,2,8,6,2,1
+,4.12,CATL,China,20,0.6%,IPO,Manufacturing,Li-ion batteries,1,8,6,6,4,1
+,2.40,Snap Inc,US,19,0.6%,IPO,Social network,teenagers photo-based social network,4,1,1,1,5,1
+,1.80,Kuaishou,China,18,0.5%,Current non-IPOed,Media,photo-sharing platform,1,1,1,1,5,1
+,1.40,Tencent Music,China,18,0.5%,IPO,Music,Spotify clone,1,1,1,1,3,1
+,4.44,Lyft,US,15,0.5%,Current non-IPOed,Transportation,uber clone,6,6,6,1,2,5
+,3.68,Adyen,Netherlands,15,0.5%,IPO,Payment,Stripe clone,4,2,8,6,2,1
+,4.44,DJI,China,15,0.5%,Current non-IPOed,Drones,main drone manufacturing company,2,5,6,5,2,8
+,3.40,JUUL Labs,US,15,0.5%,Current non-IPOed,e-cigarettes,main e-cig manufacturing company,2,5,5,7,2,1
+,5.56,Pinduoduo,China,15,0.5%,IPO,e-commerce,group buying deals,8,5,5,5,8,1
+,2.60,Pinterest,US,13,0.4%,Current non-IPOed,Social network,woman craft&interest social network,4,1,6,1,2,1
+,5.44,Jiedaibao,China,11,0.3%,Current non-IPOed,Financial,micro-loans and consumer finance,5,3,6,5,8,5
+,3.68,Grab,Singapore,10,0.3%,Current non-IPOed,Payment,stripe clone,4,2,8,6,2,1
+,3.68,Paytm,India,10,0.3%,Current non-IPOed,Payment,stripe clone,4,2,8,6,2,1
+,4.76,WeBank,China,9,0.3%,Current non-IPOed,Financial,collaborative banking,5,2,6,6,8,1
+,2.12,Zynga,US,9,0.3%,IPO,Gaming,social gaming company,1,1,8,1,1,1
+,4.44,Uber China,China,9,0.3%,Acquired,Transportation,uber clone,6,6,6,1,2,5
+,5.40,PingAn Health Insurance Tech,China,9,0.3%,Current non-IPOed,insurance,simplification of health insurance,7,2,6,8,8,1
+,2.92,Spotify,Sweden,9,0.3%,Direct listing,Music,music on demand platform,4,1,8,1,2,1
+,1.20,Skype,Sweden,9,0.3%,Acquired,Communication,peer to peer communication,1,1,1,1,2,1
+,2.44,Coinbase,US,8,0.2%,Current non-IPOed,Financial,cryptocurrencies trading marketplace,1,1,10,1,1,1
+,2.44,Koubei,China,8,0.2%,Current non-IPOed,Information,google lookalike w. deeptech,1,1,10,1,1,1
+,3.56,OneConnect,China,8,0.2%,Current non-IPOed,Communication,banks backoffice platform,1,1,10,2,6,1
+,3.04,Twitter,US,8,0.2%,IPO,Social network,140-long character written social network,4,1,10,1,1,1
+,7.36,Instacart,US,8,0.2%,Current non-IPOed,e-commerce,last-mile delivery + B2C groceries platform,8,6,10,6,6,8
+,2.60,Moderna Therapeutics,US,8,0.2%,Current non-IPOed,Health,deeptech health,1,1,10,1,1,2
+,4.16,JD Finance,China,7,0.2%,Current non-IPOed,e-commerce,e-commerce w. drone delivery system,2,2,10,4,6,1
+,5.20,Tokopedia,Indonesia,7,0.2%,Current non-IPOed,e-commerce,C2C platform e-commerce,6,4,8,6,6,1
+,2.32,Roivant Sciences,Switzerland,7,0.2%,Current non-IPOed,Health,deeptech in health,2,2,2,2,2,4
+,2.88,Slack Technologies,US,7,0.2%,Current non-IPOed,Communication,communication SaaS for tech businesses,4,2,1,1,1,8
+,6.92,GO-JEK,Indonesia,7,0.2%,Current non-IPOed,Transportation,Motorcycle taxis & transportation,9,8,7,8,8,1
+,1.36,Tanium,US,7,0.2%,Current non-IPOed,Security,security endpoint deeptech,1,1,1,1,2,2
+,5.52,Lianjia,China,6,0.2%,Current non-IPOed,Real estate,airbnb clone,8,8,8,2,4,2
+,3.68,Palantir Technologies,US,6,0.2%,Current non-IPOed,Security,big data analytics in defense & police,1,2,10,1,4,4
+,3.68,Square,US,6,0.2%,IPO,Payment,smartphone-facilitated payments,4,2,8,6,2,1
+,2.44,Homelink,China,6,0.2%,Current non-IPOed,manufacturing,in-car smart opening systems,1,6,2,1,1,4
+,3.56,Robinhood,US,6,0.2%,Current non-IPOed,Financial,personal trading fee-free millenial-targeting app,2,2,8,5,4,1
+,3.40,Coupang,South Korea,5,0.2%,Current non-IPOed,e-commerce,mobile-first e-commerce platform,2,2,8,2,5,1
+,3.56,NIO,China,5,0.2%,Current non-IPOed,manufacturing,tesla copycat,1,9,9,1,1,1
+,3.96,OYO,India,5,0.2%,Current non-IPOed,travel,booking.com copycat,4,2,4,1,4,8
+,2.84,United Imaging Healthcare,China,5,0.2%,Current non-IPOed,Health,health manufacturing devices,1,2,8,4,2,1
+,2.52,Stemcentrx,US,5,0.2%,Acquired,Health,biopharma company w. several patents,1,2,6,4,2,1
+,5.56,Groupon,US,5,0.1%,IPO,e-commerce,group buying deals,8,5,5,5,8,1
+,2.92,Magic Leap,US,5,0.1%,Current non-IPOed,VR,VR manufacturer,1,1,10,1,1,4
+,1.00,Zenefits,US,5,0.1%,Current non-IPOed,HR,HR management full-featured SaaS,1,1,1,1,1,1
+,2.12,Meizu,China,4,0.1%,Current non-IPOed,Manufacturing,consumer electronics,1,1,8,1,1,1
+,6.00,Ucar,China,4,0.1%,IPO,Transportation,on-demand carsharing platform,8,6,6,6,8,1
+,3.80,Ola Cabs,India,4,0.1%,Current non-IPOed,Transportation,uber clone,6,6,6,1,2,1
+,3.56,BAIC BJEV,China,4,0.1%,Current non-IPOed,cars,tesla clone,1,9,9,1,1,1
+,5.84,Yello Mobile,South Korea,4,0.1%,Current non-IPOed,advertising,B2B on-demand advertising automated platform,6,7,9,6,6,1
+,4.24,Zalando,Germany,4,0.1%,IPO,e-commerce,on-demand customer-centric fashion platform,6,2,2,2,6,6
+,3.44,Byju's,India,4,0.1%,Current non-IPOed,e-learning,on-demand elearning,6,2,2,2,6,1
+,2.04,Nubank,Brazil,4,0.1%,Current non-IPOed,Financial,mobile-first neobank cutting banking bullshit,3,2,2,2,2,1
+,1.84,Peloton,US,4,0.1%,Current non-IPOed,Social network,fitness enthusiasts-oriented social network,2,2,2,2,2,1
+,4.48,DoorDash,US,4,0.1%,Current non-IPOed,food delivery,food delivery logistics platform,8,2,2,2,6,5
+,3.40,UBtech Robotics,China,4,0.1%,Current non-IPOed,manufacturing,robot manufacturing,1,2,8,1,1,8
+,2.84,Lending Club,US,4,0.1%,IPO,Financial,C2C consumer finance,3,2,2,2,6,1
+,1.84,Garena,Singapore,4,0.1%,Current non-IPOed,Social network,sports-oriented social network,2,2,2,2,2,1
+,7.12,Shouqi Car Rental,China,4,0.1%,Current non-IPOed,Transportation,Ucar clone,8,6,6,6,8,8
+,2.04,Credit Karma,US,4,0.1%,Current non-IPOed,Financial,credit score calculator,3,2,2,2,2,1
+,4.48,Swiggy,India,3,0.1%,Current non-IPOed,food delivery,Doordash clone,8,2,2,2,6,5
+,2.60,Atlassian,Australia,3,0.1%,IPO,productivity,coding productivity SaaS,1,2,8,2,2,1
+,5.08,e-Shang Redwood,China,3,0.1%,Current non-IPOed,Logistics,recurring logistics,3,8,6,4,8,1
+,3.20,Oscar Health,US,3,0.1%,Current non-IPOed,insurance,simplifying healthtech & cutting bullshit,2,2,8,2,4,1
+,2.40,SmileDirectClub,US,3,0.1%,Current non-IPOed,health,braces company w. a patent,1,2,2,2,5,2
+,2.64,Fanatics,US,3,0.1%,Current non-IPOed,e-commerce,sports vertical e-commerce platform,2,2,2,2,6,1
+,3.44,UiPath Inc.,US,3,0.1%,Current non-IPOed,productivity,B2B automation of low-value-added tasks,4,2,8,4,2,1
+,6.60,VIPKID,China,3,0.1%,Current non-IPOed,e-learning,teaching marketplace,9,6,8,7,7,2
+,2.92,Ali Music,China,3,0.1%,Current non-IPOed,Music,spotify clone,4,1,8,1,2,1
+,3.96,ContextLogic (Wish),US,3,0.1%,Current non-IPOed,e-commerce,marketplace splurge // destocking,5,3,5,6,4,1
+,4.16,Jia.com,China,3,0.1%,Current non-IPOed,e-commerce,B2B home marketplace,4,3,4,4,8,1
+,3.00,LY.com,China,3,0.1%,Current non-IPOed,travel,booking.com copycat,4,2,4,1,4,2
+,3.44,Meili United Group,China,3,0.1%,Current non-IPOed,e-commerce,zalando.com copycat,6,2,2,2,6,1
+,5.20,Ping An Good Doctor,China,3,0.1%,Current non-IPOed,health,doctor booking & advice platform,6,4,8,6,6,1
+,3.40,Royole Corporation,China,3,0.1%,Current non-IPOed,manufacturing,smartphone manufacturer (split from foxconn),1,8,2,2,2,6
+,3.20,SoFi,US,3,0.1%,Current non-IPOed,Financial,personal trading platform,4,2,8,2,2,1
+,3.44,VANCL,China,3,0.1%,Current non-IPOed,e-commerce,zalando.com copycat,6,2,2,2,6,1
+,5.84,Wanda E-commerce,China,3,0.1%,Current non-IPOed,e-commerce,alibaba.com copycat,6,6,8,2,6,6
+,2.40,Yixia Technology,China,3,0.1%,Current non-IPOed,social network,snap copycat,4,1,1,1,5,1
+,3.00,Legendary Entertainment,US,3,0.1%,Acquired,media,content creation company,1,1,1,8,6,2
+,2.88,Pure Storage,US,3,0.1%,IPO,productivity,SaaS data warehousing,4,1,9,1,1,1
+,2.84,UnionPay Merchant Services,China,3,0.1%,Current non-IPOed,Financial,Banking simplified & cards,2,1,2,5,6,1
+,2.24,Pivotal,US,3,0.1%,IPO,productivity,on-demand cloud services,2,1,2,5,3,1
+,2.44,Plaid,US,3,0.1%,Current non-IPOed,Financial,middleware banking tech layer,1,2,9,1,1,1
+,7.88,Ofo,China,3,0.1%,Current non-IPOed,transportation,on-demand bike service,8,8,8,7,8,8
+,3.24,AmWINS Group,US,3,0.1%,Current non-IPOed,insurance,insurance broker leveraging tech,1,2,8,4,4,1
+,1.64,Vice Media,US,3,0.1%,Current non-IPOed,news,edgy news network,1,2,2,2,2,1
+,2.76,Cambricon,China,3,0.1%,Current non-IPOed,manufacturing,robot & microchip manufacturing,1,8,2,5,1,1
+,3.84,Zomato,India,3,0.1%,Current non-IPOed,food delivery,food search & delivery,8,2,2,2,6,1
+,2.28,Face++,China,3,0.1%,Current non-IPOed,productivity,"face recognition service, prob. china military",1,1,9,1,1,1
+,3.48,Qualtrics,US,3,0.1%,Current non-IPOed,productivity,customer discovery SaaS,4,2,8,1,4,1
+,2.80,Zhihu,China,3,0.1%,Current non-IPOed,social network,Quora.com Q&A social network,2,2,8,2,2,1
+,2.24,Kingsoft Cloud,China,2,0.1%,Current non-IPOed,productivity,on-demand cloud services,2,1,2,5,3,1
+,8.00,Box,US,2,0.1%,IPO,productivity,on-demand physical storage,8,8,8,8,8,8
+,1.84,Mozido,US,2,0.1%,Current non-IPOed,services,platform-platform business,2,2,2,2,2,1
+,4.32,Houzz,US,2,0.1%,Current non-IPOed,e-commerce,home decoration e-commerce platform,6,2,2,6,8,1
+,3.68,Klarna,Sweden,2,0.1%,Current non-IPOed,Financial,"online payment solution, stripe competitor",4,2,8,6,2,1
+,4.36,GoPro,US,2,0.1%,IPO,manufacturing,camera manufacturing,1,8,6,2,2,8
+,7.04,Compass,US,2,0.1%,Current non-IPOed,food delivery,food cooking & delivery for businesses,8,8,6,6,6,8
+,3.52,Babytree,China,2,0.1%,Current non-IPOed,e-commerce,parenting tips & bundle offers,7,1,1,1,6,3
+,3.08,Opendoor,US,2,0.1%,Current non-IPOed,Real estate,fee-free agent,6,1,1,1,4,4
+,3.00,Taobao Movie,China,2,0.1%,Current non-IPOed,Communication,content creation company,1,1,1,8,6,2
+,4.80,"Roku, Inc.",US,2,0.1%,IPO,manufacturing,smart tvs,1,5,5,1,8,8
+,4.84,Three Squirrels,China,2,0.1%,Current non-IPOed,food delivery,food production,1,4,4,4,8,8
+,2.12,AppDynamics,US,2,0.1%,Acquired,services,app performance management,1,4,2,2,2,2
+,2.72,Traveloka,Indonesia,2,0.1%,Current non-IPOed,services,B2B butler for corporate travel,4,4,2,2,2,2
+,2.12,Applovin,US,2,0.1%,Current non-IPOed,services,app performance management,1,4,2,2,2,2
+,4.24,Beijing Weiying Technology,China,2,0.1%,Current non-IPOed,services,ticketing & event booking app,6,4,4,2,6,2
+,4.00,Bird,US,2,0.1%,Current non-IPOed,transportation,on-demand electric scooters,4,4,1,1,5,8
+,4.48,Deliveroo,UK,2,0.1%,Current non-IPOed,food delivery,food delivery logistics platform,8,2,2,2,6,5
+,1.84,Domo,US,2,0.1%,IPO,productivity,business analytics,2,2,2,2,2,1
+,2.84,Firstp2p,China,2,0.1%,Current non-IPOed,financial,micro lending platform C2C,3,2,2,2,6,1
+,1.84,Huimin.cn,China,2,0.1%,Current non-IPOed,e-commerce,platform for middlesize supermarkets,2,2,2,2,2,1
+,7.36,Meicai.cn,China,2,0.1%,Current non-IPOed,e-commerce,agricultural goods & know-how,8,8,7,7,7,7
+,0.00,Maoyan-Weiying,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Oxford Nanopore Technologies,UK,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,ReNew Power,India,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Sensetime,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,SurveyMonkey,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Taopiaopiao,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Trendy International Group,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Tubatu.com,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Youxinpai,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Paytm mall,India,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Wayfair,US,2,0.1%,IPO,,,,,,,,
+,0.00,NantHealth,US,2,0.1%,IPO,,,,,,,,
+,0.00,Meitu,China,2,0.1%,IPO,,,,,,,,
+,0.00,Nutanix,US,2,0.1%,IPO,,,,,,,,
+,0.00,Avant,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Intarcia Therapeutics,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Yinlong Group,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Youxia Motors,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Sanpower Group,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Dfinity,Switzerland,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Prosper Marketplace,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Mobileye,Israel,2,0.1%,IPO,,,,,,,,
+,0.00,Apus Group,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,BenevolentAI,UK,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Avito.ru,Russia,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Billdesk,India,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Ucommune,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Crystal Lagoons,Chile,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,NantOmics,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Reddit,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Quora,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Sprinklr,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Zocdoc,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Revolut,UK,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Taihe Music Group,China,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,Squarespace,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,The Honest Company,US,2,0.1%,Current non-IPOed,,,,,,,,
+,0.00,AIWAYS,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Caocao Zhuanche,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,BlaBlaCar,France,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Afiniti,US,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Better Place,US,2,0.0%,Acquired,,,,,,,,
+,0.00,HeartFlow,US,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Affirm,US,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Musigma,India,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Aihuishou,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Spring Rain Software,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Douyu TV,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Lakala,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Ninebot,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Souche,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,UCloud,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Tujia.com,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,ZBJ.com,China,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Freshworks,India,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Snowflake Computing,US,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Letgo,Spain,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Asana,US,2,0.0%,Current non-IPOed,,,,,,,,
+,0.00,MuleSoft,US,2,0.0%,"IPO,Acquired",,,,,,,,
+,0.00,Jet.com,US,2,0.0%,Acquired,,,,,,,,
+,0.00,LivingSocial,US,2,0.0%,Acquired,,,,,,,,
+,0.00,WhatsApp,US,2,0.0%,Acquired,,,,,,,,
+,0.00,Hello Bike,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Suning Sports,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Tuandaiwang,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Koudai Gouwu,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,C3 IoT,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Hike,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Toast,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,HomeAway,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Jasper,US,1,0.0%,Acquired,,,,,,,,
+,0.00,ETCP,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Kr Space,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Thumbtack,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Rubrik,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,PagerDuty,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Postmates,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Sunrun,US,1,0.0%,IPO,,,,,,,,
+,0.00,Alisports,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Loji Logistics,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Iwjw,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Darktrace,UK,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Bitmain,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Byton,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,EasyLife Financial Services,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Dada,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Warby Parker,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Bukalapak,Indonesia,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Good Technology,US,1,0.0%,Acquired,,,,,,,,
+,0.00,NetEase Cloud Music,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Fab,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Gilt Groupe,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Vonage,US,1,0.0%,IPO,,,,,,,,
+,0.00,GitLab,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,NetEase Youdao,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Luoji Siwei,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,LimeBike,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Global Fashion Group,Luxembourg,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,ShopClues,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Cloudflare,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,InMobi,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Convoy,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Maimai,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Zulily,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Coupa,US,1,0.0%,IPO,,,,,,,,
+,0.00,LinkedIn,US,1,0.0%,IPO,,,,,,,,
+,0.00,Twilio,US,1,0.0%,IPO,,,,,,,,
+,0.00,SimpliVity,US,1,0.0%,Acquired,,,,,,,,
+,0.00,UST Global,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Policy Bazaar,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Udaan,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Pine Lab,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Beibei,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,OutSystems,Portugal,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Chubao Technology,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Dt Dream,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,DXY,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Futu Securities,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,FXiaoKe,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Fangdd.com,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Fanli,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Huikedu Group,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Gusto,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Snapdeal,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Netskope,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,iCarbonX,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Innovent Biologics,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,iTutorGroup,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,JFrog,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Jiangsu Zimi Technology,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Jollychic,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Quikr,India,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Lalamove,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Lamabang,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,luckin coffee,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Mia.com,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Careem,UAE,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,MissFresh,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Mobvoi,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Mofang Apartment,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Novogene,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,QingCloud,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Seismic Software,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Smartmi,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Tongdun Technology,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Unisound,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Wacai.com,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Wifi Master Key,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,CrowdStrike,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Womai,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Xiaozhu.com,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,YH Global,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Yuanfudao,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Vox Media,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Yitu Technology,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Yidian Zixun,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Essential Products,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,MindMaze,Switzerland,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Zhaogang.com,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Zhuanzhuan,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Zuoyebang,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,17Zuoye,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,GoGoVan,Hong Kong,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Rubicon Global,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,36Kr Media,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,InVision,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,58 Daojia,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Lookout Security,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,TransferWise,UK,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Kabam,Canada,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,9fbank.com,China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Udacity,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Canva,Australia,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,LinkSure Network (WiFi Master Key),China,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,MedMen,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,OrCam,Israel,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Improbable,UK,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,ThoughtSpot,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Symphony,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Taxify,Estonia,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Klook,Hong Kong,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,One Medical,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Talkdesk,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Tresata,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,AppDirect,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,TripActions,US,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Rappi,Colombia,1,0.0%,Current non-IPOed,,,,,,,,
+,0.00,Musigma,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Shopify,Canada,1,0.0%,IPO,,,,,,,,
+,0.00,AirWatch,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Lynda.com,US,1,0.0%,Acquired,,,,,,,,
+,0.00,New Relic,US,1,0.0%,IPO,,,,,,,,
+,0.00,Dollar Shave Club,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Quotient Technology,US,1,0.0%,IPO,,,,,,,,
+,0.00,Skyscanner,UK,1,0.0%,Acquired,,,,,,,,
+,0.00,Souq.com,UAE,1,0.0%,Acquired,,,,,,,,
+,0.00,Blue Apron,US,1,0.0%,IPO,,,,,,,,
+,0.00,musical.ly,China,1,0.0%,Acquired,,,,,,,,
+,0.00,Stitch Fix,US,1,0.0%,IPO,,,,,,,,
+,0.00,Shazam,UK,1,0.0%,Acquired,,,,,,,,
+,0.00,Ring,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Mobike,China,1,0.0%,Acquired,,,,,,,,
+,0.00,Ele.me,China,1,0.0%,Acquired,,,,,,,,
+,0.00,IZettle,Sweden,1,0.0%,Acquired,,,,,,,,
+,0.00,Duo Security,US,1,0.0%,Acquired,,,,,,,,
+,0.00,Bloom Energy,US,1,0.0%,IPO,,,,,,,,
+,0.00,Solstice,US,1,0.0%,Acquired,,,,,,,,
